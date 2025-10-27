@@ -1,4 +1,4 @@
-Walmart Sales Data Analysis
+Walmart Sales Analysis
 ---Project Summary
 
 Analyzed Walmart’s retail sales data to understand sales performance, profit/loss trends, and store-level insights using SQL, Python, and Power BI.
