@@ -31,4 +31,4 @@ SQL | Python | Jupyter Notebook | Power BI | Data Cleaning | Visualization
 
 
 3) Walmart sales per store and year.jpg → Power BI dashboard (final report)
-![Dashboard Preview](https://github.com/SahitiDukkipati/IBM-HR-Employee-Attrition-Analysis/blob/406b1e043637b53a2623ab11184ce6a2b6e53d7f/Employee%20data%20visualization.png)
+![Dashboard Preview](https://github.com/SahitiDukkipati/Walmart-Sales-Analysis/blob/6ef1e18565c932aa12bbe068c8df810dc9679b7f/walmart%20sales%20per%20store%20and%20year.png)
