@@ -27,7 +27,8 @@ This project analyzes Walmart's retail sales data to understand sales performanc
 walmart-sales-analysis/
 │
 ├── Walmart_Sales.ipynb           # Python-based data analysis & visualizations
-├── Walmart Sales Analysis.sql    # SQL queries and data transformations
+├── Walmart_sales Analysis.sql    # SQL queries and data transformations
+|walmart sales per store and year.png #Dashboard presentation in image 
 └── README.md
 ```
 
