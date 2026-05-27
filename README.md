@@ -41,7 +41,7 @@ walmart-sales-analysis/
 - Wrote queries to extract **monthly and store-wise sales patterns**
 - Aggregated data to prepare it for downstream analysis
 
-### 2. 🐍 Python — Trend & Profit Analysis
+### 2. 🗄️ Python — Trend & Profit Analysis
 - Used **Pandas** for data manipulation and feature exploration
 - Built visualizations with **Matplotlib** to analyze sales trends over time
 - Identified profit and loss patterns across different periods
